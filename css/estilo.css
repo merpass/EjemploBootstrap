@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #aefafa;
+}
+h1, h2{
+    font-family: 'Indie Flower', cursive;
+}
+.fondoMio{
+    background-color: #209393;
+}
+.miEstilo{
+    width: 300px;
+    margin:10px auto;
+}
+.tabla{
+    width: 500px;
+    margin:10px auto;
+}
+.logo{
+    width: 50px;
+}
+.fondoNav{
+    background-color: aqua;
+}
+.acordeon{
+    width: 400px;
+}
